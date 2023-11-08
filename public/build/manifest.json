@@ -1,0 +1,32 @@
+{
+  "resources/images/2ningauto-tuning-portal-COM-favicon.png": {
+    "file": "assets/2ningauto-tuning-portal-COM-favicon-55496270.png",
+    "src": "resources/images/2ningauto-tuning-portal-COM-favicon.png"
+  },
+  "resources/images/2ningauto-tuning-portal-COM.png": {
+    "file": "assets/logo-8791ad63.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/logo-8791ad63.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-da091689.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-da091689.css"
+    ],
+    "file": "assets/app-4f1d75fe.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-da091689.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
