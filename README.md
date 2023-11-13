@@ -8,6 +8,8 @@ MYSQL
 VITE
 
 ## set up and how to work with the project
+
+run 'npm install'
 run that 2 command together: 'php artisan serve & npm run dev'
 
 http://127.0.0.1:8000/
